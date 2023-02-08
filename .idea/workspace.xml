@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a69e7b74-283f-4876-98cc-0e26fe4725a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EjerciciosTema789.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio1/PrimerEjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2/SegundoEjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio3y4/VectorEjer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio3y4/problemavectores.readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio5/ArreglosLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio6/ejercicoSeis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio7/siete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio8/Copiar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio9/Nueve.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LRHnOYR1CFsfmYoMSETAIgXJcZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Nueve">
+    <configuration name="ArreglosLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio5.ArreglosLink" />
+      <module name="EjerciciosTema789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Copiar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio8.Copiar" />
+      <module name="EjerciciosTema789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nueve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio9.Nueve" />
+      <module name="EjerciciosTema789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicoSeis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio6.ejercicoSeis" />
+      <module name="EjerciciosTema789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="siete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio7.siete" />
+      <module name="EjerciciosTema789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Nueve" />
+        <item itemvalue="Application.Copiar" />
+        <item itemvalue="Application.siete" />
+        <item itemvalue="Application.ejercicoSeis" />
+        <item itemvalue="Application.ArreglosLink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a69e7b74-283f-4876-98cc-0e26fe4725a1" name="Changes" comment="" />
+      <created>1675827143848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675827143848</updated>
+    </task>
+    <servers />
+  </component>
+</project>

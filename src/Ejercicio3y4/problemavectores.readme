@@ -1,0 +1,4 @@
+Indica cuál es el problema de utilizar un Vector con la capacidad por defecto si tuviésemos 1000 elementos para ser añadidos al mismo.
+
+r= Al momento de un desborde de memoria la memoria por defecto crea un nuevo vector y una copia del actual, y duplica la memoria, es decir, al tener 1000 registros
+estariamos desperdiciando memoria al estar duplicando cada que se desborde por no establecer un indice de aumento y una capacidad
